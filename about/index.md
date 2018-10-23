@@ -3,6 +3,7 @@ layout: page
 title: Manifiesto
 tags: [about, mani-fiesta, manifiesto, cimbrelmatutino]
 date: 2018-10-23
+feature: https://orig00.deviantart.net/b548/f/2015/082/c/e/hackers_by_dan232323-d8cye7f.jpg
 comments: false
 ---
 ## Manifiesto
