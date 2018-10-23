@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: "NAVAJA NEGRA 2018 - Actor revelación"
 date: 2018-10-23
-excerpt: "Persona que por sus cualidades, conocimientos u otras actitudes, destaca o sobresale en una determinada actividad o es un Attention Whore"
+excerpt: "Persona que por sus cualidades, conocimientos u otras actitudes, destaca o sobresale en una determinada actividad o simplemente es un Attention Whore"
 tags: [HACKER, KIDDIE, ATTW]
 comments: true
 ---
