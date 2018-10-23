@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "NAVAJA NEGRA 2018 - Actor revelación"
 date: 2018-10-23
