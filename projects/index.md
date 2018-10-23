@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: Y los galardonados son...
+excerpt: "And the pwnie goes to!"
 comments: false
 ---
