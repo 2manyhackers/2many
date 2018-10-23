@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Galardonados
-excerpt: "A List de Galardonados"
+excerpt: "Lista de Galardonados"
 comments: false
 ---
 
