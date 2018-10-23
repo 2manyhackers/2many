@@ -1,8 +1,6 @@
 ---
 layout: project
-title: Galardonados
-excerpt: "Lista de Galardonados"
+title: All Projects
+excerpt: "A List of Projects"
 comments: false
 ---
-
-Nava Negra 2018 - Pendiente de votaciones.
