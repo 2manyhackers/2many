@@ -4,7 +4,7 @@ bio: 'Hey! is not my fault, it's just your bullshit'
 description: 'no stupid description here...'
 reading_time: true
 words_per_minute: 200
-logo: 'assets/img/logo.jpg'
+logo: 'https://raw.githubusercontent.com/2manyhackers/2many/master/assets/img/logo.jpg'
 background: 'assets/img/haaaackerrrr.jpg'
 tiled_bg: false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
