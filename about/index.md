@@ -7,6 +7,6 @@ feature: https://orig00.deviantart.net/b548/f/2015/082/c/e/hackers_by_dan232323-
 comments: false
 ---
 ## Manifiesto
-Por los loles, por la banana que baila, por el gorro de chema, por los XSS pintados con rotuladores Carioca, porque estamos cansandos de tanto timo de por y para la comunidad, porque mucho lirili pero muy poco lerere.
+Por los loles, por la banana que baila, por los XSS pintados con rotuladores Carioca, porque estamos cansados de tanto timo de por y para la comunidad, porque mucho lirili pero muy poco lerere.
 
-En definitiva creemos que es necesario premiar la valentida y la osadez de los grandes del infosec, sin importar fronteras, creemos que aquí hay espacio para todos vosotros amigos. Sí has dado una charla, sí, te gusta publicar tus 0days para el notepad ++, si te crees la polla quizás puedas ser el #target apropiado para aparecer en nuestras listas.
+En definitiva creemos que es necesario premiar la valentida y la osadez de los grandes del infosec, sin importar fronteras, creemos que aquí hay espacio para todos vosotros amigos. Si has dado una charla, si te gusta publicar tus 0days para el notepad ++, si coleccionas CVEs de DoS en software que no usa ni el tato, si te crees la polla quizás puedas ser el #target apropiado para aparecer en nuestras listas.
